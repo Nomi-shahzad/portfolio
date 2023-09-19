@@ -4,12 +4,12 @@ html {
 
 #title {
     background-color: #f9fcfb;
-    font-family: "Lato";
+    font-family: "Verdana";
 
 }
 
 h1 {
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 1000;
     font-size: 1rem;
 }
@@ -19,7 +19,7 @@ h2 {
 }
 
 h3 {
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 600;
 
 }
@@ -40,7 +40,7 @@ p {
 }
 
 .header-bloc p {
-    font-family: "Lato";
+    font-family: "Verdana";
 }
 
 .header-image {
@@ -52,7 +52,7 @@ p {
 .profession {
     color: #2281e3;
     text-transform: capitalize;
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 600;
 }
 
@@ -64,7 +64,7 @@ p {
 /* Navigation Bar */
 .nav-item {
     padding: 0px 18px;
-    font-family: "Lato";
+    font-family: "Verdana";
 }
 
 .navbar-nav {
@@ -94,7 +94,7 @@ p {
     margin: 0;
     text-align: center;
     padding: 5% 5%;
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 400;
     background-color: white;
 }
@@ -120,7 +120,7 @@ p {
 
     padding: 5% 5%;
     text-align: center;
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 400;
 }
 
@@ -143,7 +143,7 @@ p {
     text-align: center;
     background-color: #e3e3e3;
     padding: 5% 5%;
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 500;
 }
 
@@ -166,7 +166,7 @@ p {
 #contact {
     text-align: center;
     padding: 5% 5%;
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 400;
 }
 
@@ -223,7 +223,7 @@ form button {
 #aboutme {
     text-align: center;
     padding: 7% 5%;
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 400;
 }
 
@@ -235,7 +235,7 @@ form button {
 #footer {
     text-align: center;
     padding: 1% 5%;
-    font-family: "Lato";
+    font-family: "Verdana";
     font-weight: 400;
     background-color: #f9fcfb;
 }
